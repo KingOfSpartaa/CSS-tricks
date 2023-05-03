@@ -1,2 +1,2 @@
-# css-tricks
+# CSS-tricks
 Some amazing projects and effects based on CSS tricks
